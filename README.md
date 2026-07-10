@@ -79,7 +79,7 @@ The underlying PySpark pipeline includes:
 
 ### Main Dashboard
 
-![Dashboard](tableau/dashboard.png)
+![Dashboard](tableau/Dashboard.png)
 
 ---
 
@@ -98,4 +98,4 @@ The interactive Tableau dashboard is available here:
 
 <img src="images/Map.png" alt="Map" width="700"/>
 <img src="images/KMeans.png" alt="KMeans" width="700"/>
-<img src="images/t10.png" alt="Top 10" width="700"/>
+<img src="images/Top 10.png" alt="Top 10" width="700"/>
